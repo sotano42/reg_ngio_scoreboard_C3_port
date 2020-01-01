@@ -1,0 +1,32 @@
+{
+	"is-c3-addon": true,
+	"type": "plugin",
+	"name": "Scoreboard",
+	"id": "Rex_NGIO_Scoreboard",
+	"version": "0.1.0.1",
+	"author": "Rex.Rainbow/Port by Pixel Perfect Studio",
+	"website": "https://www.imcsw.com",
+	"documentation": "https://www.imcsw.com",
+	"description": "Handles loading and posting of high scores and scoreboards.",
+	"editor-scripts": [
+						"plugin.js",
+						"type.js",
+						"instance.js"
+					],
+	"file-list": [
+		"c2runtime/runtime.js",
+		"c3runtime/actions.js",
+		"c3runtime/conditions.js",
+		"c3runtime/expressions.js",
+		"c3runtime/instance.js",
+		"c3runtime/type.js",
+		"c3runtime/plugin.js",
+		"lang/en-US.json",
+		"aces.json",
+		"addon.json",
+		"icon.svg",
+		"plugin.js",
+		"type.js",
+		"instance.js"
+	]
+}
